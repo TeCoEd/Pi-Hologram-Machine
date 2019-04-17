@@ -2,6 +2,8 @@
 Displays Holograms using a Raspberry Pi
 (program code based on 'video player' by @biglesp)
 
+![](images/holo.jpg)
+
 # What you need
 * IKEA table
 * Old monitor
